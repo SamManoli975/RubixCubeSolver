@@ -1,0 +1,67 @@
+  
+
+red = g r y y r g b g r
+orange = r b o y o g b b r
+yellow =  w o g b y w b r y
+white = w o r o w y w r g 
+blue = y w o r b o y y o
+green =  o w b w g g g b w
+
+red = red (yellow on top)
+orange = orange (yellow on top)
+yellow = yellow (blue on top)
+white = white (green on top)
+blue = blue (yellow on top)
+green = blue (yellow on top)
+
+grid
+
+red = 
+g r y
+y r g
+b g r
+
+orange =
+r b o
+y o g
+b b r
+
+yellow
+w o g
+b y w
+b r y
+
+white
+w o r
+o w y
+w r g
+
+blue
+y w o
+r b o
+y y o
+
+green 
+o w b
+w g g
+g b w
+
+
+
+        yellow(3)
+        w o g
+        b y w
+        b r y
+
+blue(5) red(1)  green(6) orange(2)
+y w o   g r y   o w b    r b o
+r b o   y r g   w g g    y o g
+y y o   b g r   g b w    b b r
+
+        white(4)
+        w o r
+        o w y   
+        w r g
+
+B' U' F2 R' F D' R2 B2 U B U B' U2 F' U2 F L U L' U2 L U2 L' U2 R' U' R L' U2 L B' U' B U L' U2 L U' F U F' U' F U F' U F' L F L' U2 F' L F L' U B' U F' U2 B U' B' U2 F B U'
+    
